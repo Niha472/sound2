@@ -1,0 +1,29 @@
+#haha{
+color:#CE5374;
+background-color:#4C86A8;
+width: 50%;
+}
+#hint{
+    color: #D10000;
+    background-color:#E0777D;
+}
+#button{
+   background-color: #E0607E;
+}
+#soundne{
+background-color:#297373;
+}
+#identify{
+background-color:#FB4B4E;
+}
+#creator{
+    bottom: 0;
+    position: fixed;
+    color:#EE4B6A;
+    background-color: #2274A5 ;
+    width: 100%;
+
+}
+body{
+    background-color: #D90368;
+}
